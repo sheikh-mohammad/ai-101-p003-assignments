@@ -7,3 +7,5 @@
 Generate even numbers using for loop
 
 ### Part 2
+
+Generate odd numbers using for loop
