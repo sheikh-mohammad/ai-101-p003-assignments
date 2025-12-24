@@ -4,8 +4,8 @@
 
 ### Part 1
 
-Generate even numbers using for loop
+Generate even numbers using a for loop
 
 ### Part 2
 
-Generate odd numbers using for loop
+Generate odd numbers using a for loop
