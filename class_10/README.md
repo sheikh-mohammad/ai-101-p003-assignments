@@ -11,3 +11,5 @@ Generate even numbers using a for loop
 Generate odd numbers using a for loop
 
 ## Assignment 2
+
+### Part 1
