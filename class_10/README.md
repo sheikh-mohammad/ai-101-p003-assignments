@@ -23,3 +23,5 @@ Generate the following star pattern using a nested loop
 ****
 *****
 ```
+
+### Part 2
