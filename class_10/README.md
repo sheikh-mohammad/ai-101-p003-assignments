@@ -16,3 +16,10 @@ Generate odd numbers using a for loop
 
 Generate the following star pattern using a nested loop
 
+```
+*
+**
+***
+****
+*****
+```
