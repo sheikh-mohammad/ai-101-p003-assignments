@@ -14,7 +14,7 @@ Generate odd numbers using a for loop
 
 ### Part 1
 
-Generate the following stars pattern using a nested loop
+Generate the following star pattern using a nested loop
 
 ```
 *
