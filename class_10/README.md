@@ -4,4 +4,4 @@
 
 ### Part 1
 
-Generate even numbers using loop
+Generate even numbers using for loop
